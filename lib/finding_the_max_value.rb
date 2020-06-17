@@ -7,5 +7,5 @@ def find_max_value(array)
       highest_value = array[count]
     else
   end
-  highest_value
+  return highest_value
 end
